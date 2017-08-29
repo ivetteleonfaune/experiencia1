@@ -1,0 +1,19 @@
+.cabezera{
+	padding: 25px 15px !important; 
+}
+
+.Celeste{
+	background-color: #00f3d3 !important;
+	font-size: 30px !important;
+}
+
+.Naranjo{
+	background-color: #ff9019 !important;
+	font-size: 30px !important;
+}
+
+.Rojo{
+	background-color: #ff1919 !important;
+	font-size: 30px !important;
+	color: white !important
+}
